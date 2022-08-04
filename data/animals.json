@@ -190,6 +190,42 @@
         "zany",
         "loving"
       ]
+    },
+    {
+      "name": "Paddy ",
+      "species": "Tiger",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "25"
+    },
+    {
+      "name": "Paddy ",
+      "species": "Tiger",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "25"
+    },
+    {
+      "name": "Marty",
+      "species": "Leopard",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "27"
+    },
+    {
+      "name": "Marty",
+      "species": "Leopard",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "27"
     }
   ]
 }
